@@ -1,0 +1,16 @@
+rootProject.name = 'rpc-joiner'
+//include ':commons'
+//include ':csSevlet'
+////include ':session-common'
+////include ':redis-store'
+//include ':joiner'
+//include ':renders'
+//include ':doc-handler'
+//
+//project(':commons').projectDir = "$rootDir/commons" as File
+//project(':csSevlet').projectDir = "$rootDir/sevlet" as File
+////project(':session-common').projectDir = "$rootDir/session-common" as File
+////project(':redis-store').projectDir = "$rootDir/redis-store" as File
+//project(':joiner').projectDir = "$rootDir/joiner" as File
+//project(':renders').projectDir = "$rootDir/renders" as File
+//project(':doc-handler').projectDir="$rootDir/doc-handler" as File

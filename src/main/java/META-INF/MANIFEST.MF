@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Class-Path: spring-data-redis-1.6.2.RELEASE.jar spring-aop-4.1.9.RELEA
+ SE.jar spring-core-4.1.9.RELEASE.jar log4j-1.2.16.jar commons-codec-1
+ .10.jar commons-logging-1.2.jar slf4j-api-1.7.12.jar spring-context-s
+ upport-4.1.9.RELEASE.jar commons-math3-3.5.jar jedis-2.6.0.jar common
+ s-pool2-2.0.jar spring-tx-4.1.9.RELEASE.jar guava-16.0.1.jar druid-1.
+ 0.6.jar spring-jdbc-4.1.4.RELEASE.jar amqp-client-3.6.0.jar SSCommonL
+ ibs-3.0.jar spring-beans-4.1.9.RELEASE.jar javase-3.1.0.jar quartz-2.
+ 2.1.jar spring-context-4.1.9.RELEASE.jar mysql-connector-java-5.1.18.
+ jar spring-expression-4.1.9.RELEASE.jar core-3.1.0.jar commons-io-2.2
+ .jar codemodel-2.6.jar aopalliance-1.0.jar spring-webmvc-4.1.4.RELEAS
+ E.jar
+Main-Class: 
+
